@@ -123,6 +123,8 @@ A pie chart compares the sales contributions of Clothing, Electronics, and Furni
 ## 🖼️ Dashboard Preview
 
 The dashboard screenshot can be displayed below after uploading the image to the repository.
+![Uploading Screenshot 2026-10-29 at 6.21.41 PM.png…]()
+
 
 ![E-Commerce Sales and Profitability Dashboard](dashboard/ecommerce_sales_dashboard.png)
 
